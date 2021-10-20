@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivanvolov
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning solidity & Rust
-- 💞️ I’m looking to collaborate on anythinh exsiting
+- 💞️ I'm looking to collaborate on anything exciting
 
 <!---
 ivanvolov/ivanvolov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
