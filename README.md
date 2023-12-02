@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ivanvolov
 - 👀 I’m interested in crypto
-- 🌱 I’m currently learning solidity & Rust
 - 💞️ I'm looking to collaborate on anything exciting
 
 <!---
