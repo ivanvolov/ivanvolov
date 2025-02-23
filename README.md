@@ -1,6 +1,6 @@
 - 👋 Hi, I’m IV
 - 👀 I’m interested in crypto and DeFi
-- 💞️ Building market making vaults at [Lumis.fi](https://lumis.fi/)
+- 💞️ Building market making vaults at [lumisfi](https://x.com/lumisfi_)
 
   # Repository guide
 
