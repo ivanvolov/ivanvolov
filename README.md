@@ -8,4 +8,4 @@ DeFi-maxi, OPSEC, graph theory, ontologies, EVM, Rust.
 - A modification to the CoW AMM, which will help protect LPs from MEV more efficiently [Concentrated-CoW-AMM](https://github.com/ivanvolov/Concentrated-CoW-AMM)
 
 
-# My public address is 0x92B001b70B9B7cA24d561bBe08ff1764df2D4D39
+My public address is 0x92B001b70B9B7cA24d561bBe08ff1764df2D4D39
