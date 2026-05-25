@@ -1,6 +1,6 @@
 DeFi-maxi, OPSEC, graph theory, ontologies, EVM, Rust.
 
-- Building risk-graded passive yield vaults [X:lumisfi](https://x.com/lumisfi_) | [🌐:lumis](https://github.com/Liqui-space/hedgehog)
+- Building [risk-graded passive yield vaults](https://github.com/ivanvolov/turbo-hedgehog) [X:lumisfi](https://x.com/lumisfi_) | [🌐:lumis](https://github.com/Liqui-space/hedgehog)
 - Rehypothecation hook for Uniswap V4 [unicord](https://github.com/ivanvolov/unicord)
 - An open-source pre-execution firewall for smart contracts at [moat](https://github.com/ivanvolov/moat)
 - A self-hosted agent vs _tx spoofing_ and _address poisoning_ at [lastCheck](https://github.com/ivanvolov/lastCheck)
