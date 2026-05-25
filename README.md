@@ -1,4 +1,4 @@
-DeFi-maxi, OPSEC, graph theory, ontologies, EVM, Rust.
+DeFi-maxi, security, graph theory & ontologies, EVM, Rust.
 
 - Building [risk-graded passive yield vaults](https://github.com/ivanvolov/turbo-hedgehog) [X:lumisfi](https://x.com/lumisfi_) | [🌐:lumis](https://github.com/Liqui-space/hedgehog)
 - Rehypothecation hook for Uniswap V4 [unicord](https://github.com/ivanvolov/unicord)
